@@ -1,8 +1,8 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=250&section=header&text=Hello,%20I'm%20Jiho%20Kim&fontSize=50&fontColor=ffffff&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&text=Jiho%20Kim&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
-<h3 style="align: center;">Studying Computer Science in SKKU</h3>
+### Studying Computer Science in SKKU
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihostudy%2Fhit-counter&count_bg=%23E2C716&title_bg=%23DB8C2C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
