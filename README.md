@@ -24,12 +24,12 @@
 
 [![JihoStudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihostudy)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
+<!--
 ### :muscle: Problem Solving
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
-
+-->
 <!--
 **jihostudy/jihostudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
