@@ -1,14 +1,16 @@
-<div align=center>
+
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&text=Jiho%20Kim&fontSize=50&fontColor=ffffff&fontAlignY=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&fontSize=50&fontColor=ffffff&fontAlignY=40) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
 ### Studying Computer Science And Math in SKKU
+🐢 느려도 **탄탄한 기본기**를 만들려 노력합니다. <br/>
+✏️ 개발은 **노력의 영역**이라고 생각합니다. <br/>
+💡 새로운 **지식의 습득**을 통한 **성장**을 선호합니다. <br/>
+🍀 **함께 성장**하는 여정을 좋아합니다.<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihostudy%2Fhit-counter&count_bg=%23E2C716&title_bg=%23DB8C2C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
-
-### 🔭 I’m Currently Interested on
+<!-- ### 🔭 I’m Currently Interested on -->
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=Typescript&logoColor=white)![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -19,8 +21,6 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 ### :pencil: I have Experience on
 
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
