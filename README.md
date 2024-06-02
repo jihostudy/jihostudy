@@ -4,13 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
-### Studying Computer Science And Math in SKKU
-🐢 느려도 **탄탄한 기본기**를 만들려 노력합니다. <br/>
-✏️ 개발은 **노력의 영역**이라고 생각합니다. <br/>
-💡 새로운 **지식의 습득**을 통한 **성장**을 선호합니다. <br/>
-🍀 **함께 성장**하는 여정을 좋아합니다.<br/>
+### Studying Computer Science & Mathematics in SKKU
 
-<!-- ### 🔭 I’m Currently Interested on -->
+### Who I am
+🐢 <span style="color:#FFA07A"><strong>탄탄한 이론</strong></span>을 중요시합니다. <br/>
+✏️ <span style="color:#FFA07A"><strong>노력</strong></span>하는 것이 저의 재능입니다. <br/>
+💡 <span style="color:#FFA07A"><strong>신기술</strong></span>을 활용해보려 노력합니다. <br/>
+🍀 <span style="color:#FFA07A"><strong>함께</strong></span> 성장하는 여정을 좋아합니다.<br/>
+
+### 🔭 I’m Currently Interested on
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=Typescript&logoColor=white)![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
