@@ -36,6 +36,7 @@
 </br>
 
 [![JihoStudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihostudy)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
 <br/>
 <!--
 ### Who I am
@@ -50,8 +51,7 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![sqlite](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ### :muscle: Problem Solving
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
+
 -->
 <!--
 **jihostudy/jihostudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
