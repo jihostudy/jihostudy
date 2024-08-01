@@ -21,13 +21,13 @@
 
 </br>
 
-## 프로젝트 (On Progress)
+## Projects (On Progress)
 - [이방인 프로젝트 공모전 참가 (23. 7 ~ )](https://github.com/Tra-Book/Frontend)
 - [Comit 동아리 Website(23.7 ~ )](https://github.com/skku-comit/comit-website)
 
 </br>
 
-## 프로젝트 (Finished)
+## Archive
 - [성균관대 무용학과 콩쿨 접수 페이지(24. 3 ~ 24. 4)](https://github.com/skkudanceconcours/skkudanceconcours)
 - [여행계획 세우기 사이트(24. 1 ~ 24. 2)](https://github.com/jihostudy/mytrip) 
 - [Comit 동아리 사진첩(23.8 ~ 23.9)](https://github.com/skku-comit/gallery-web)
