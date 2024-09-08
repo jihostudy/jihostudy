@@ -9,7 +9,9 @@
 
 🖥️ <span style="color:#FFA07A"><strong>웹 개발</strong>을 가장 좋아해요</span><br/> 
 
-🤔 <span style="color:#FFA07A">다양한 <strong>프로젝트</strong>로 기술과 친해지는 것을 선호해요</span><br/> 
+😍 <span style="color:#FFA07A">다양한 <strong>프로젝트</strong>로 기술과 친해지는 것을 선호해요</span><br/> 
+
+🤔 <span style="color:#FFA07A"><strong>미래지향적 코드</strong>를 작성하려고 노력해요</span><br/> 
 
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다 : )</span><br/>
  
