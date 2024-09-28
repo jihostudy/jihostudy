@@ -21,7 +21,6 @@
 | 프로젝트명 | 설명 | 링크 | 기간 |
 |------------|------|------|------|
 | TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~  |
-| CoMit | 동아리 웹사이트 | [GitHub 링크](https://github.com/skku-comit/comit-website) | 24. 7 ~ |
 
 </br>
 
