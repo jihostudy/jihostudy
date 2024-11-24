@@ -37,10 +37,11 @@
 </br>
 
 [![JihoStudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihostudy)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
+
 <br/>
 
 <!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
 ## Interested in
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=Typescript&logoColor=white)![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
