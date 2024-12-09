@@ -17,10 +17,7 @@
  
 </br>
 
-## 🔥 진행중인 프로젝트 🔥
-| 프로젝트명 | 설명 | 링크 | 기간 |
-|------------|------|------|------|
-| TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~  |
+
 
 </br>
 
@@ -28,6 +25,7 @@
 
 | 프로젝트명 | 설명 | 링크 | 기간 |
 |------------|------|------|------|
+| TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~ 24.10. |
 | SKKU 외주 | 무용학과 콩쿨 접수 페이지 | <span style="color:#f54842">Private</span> | 24. 3 ~ 24. 6 |
 | CaStard | 카페 공부만을 위한 최적화 앱 | [GitHub 링크](https://github.com/SKKUCapstone/Ca_stard_app) | 24. 3 ~ 24. 6 |
 | 이방인 | 여행계획 세우기 사이트 | [GitHub 링크](https://github.com/jihostudy/mytrip) | 24. 1 ~ 24. 2 |
@@ -36,11 +34,20 @@
 
 </br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihostudy)](https://velog.io/@zaman17)
+
+</br>
+
 [![JihoStudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihostudy)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
 <!--
+## 🔥 진행중인 프로젝트 🔥
+| 프로젝트명 | 설명 | 링크 | 기간 |
+|------------|------|------|------|
+| TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~  |
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact&theme=dracula)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nextltd)](https://solved.ac/{handle})
