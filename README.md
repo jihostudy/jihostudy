@@ -34,7 +34,7 @@
 
 </br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihostudy)](https://velog.io/@zaman17)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihostudy)](https://velog.io/@jihostudy/posts)
 
 </br>
 
