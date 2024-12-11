@@ -34,7 +34,7 @@
 
 </br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihostudy)](https://velog.io/@jihostudy/posts)
+
 
 </br>
 
@@ -51,3 +51,5 @@
 [2024/10/10 - [파이썬] 코테 꿀팁](https://jihoplayground.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%ED%85%8C-%EA%BF%80%ED%8C%81) <br/>
 [2024/08/07 - [Typescript] typeof, keyof 연산자와 typeof keyof 설명](https://jihoplayground.tistory.com/entry/Typescript-typeof-keyof-%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-typeof-keyof-%EC%84%A4%EB%AA%85) <br/>
 [2024/08/05 - [우아한 타입스크립트] 1장 웹 개발의 역사 및 타입스크립트의 등장](https://jihoplayground.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%97%AD%EC%82%AC-%EB%B0%8F-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5) <br/>
+
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jihostudy)](https://velog.io/@jihostudy/posts) -->
