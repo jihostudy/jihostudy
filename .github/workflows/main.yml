@@ -36,4 +36,4 @@ jobs:
           git config --local user.email "cale.jiho@gmail.com"
           git config --local user.name "JiHo00"
           git commit -m "Updating Blog Posts"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/<USERNAME>/<REPOSITORY>.git HEAD:main
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jihostudy/jihostudy.git HEAD:main
