@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihostudy&count_bg=%23C59EF3&title_bg=%23E9CC67&icon=&icon_color=%23000000&title=%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 저는
 ✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부하고 있어요</span><br/> 
 
@@ -16,24 +18,6 @@
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다 : )</span><br/>
  
 </br>
-
-
-
-</br>
-
-## 💧 과거 프로젝트 💧
-
-| 프로젝트명 | 설명 | 링크 | 기간 |
-|------------|------|------|------|
-| TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~ 24.10. |
-| SKKU 외주 | 무용학과 콩쿨 접수 페이지 | <span style="color:#f54842">Private</span> | 24. 3 ~ 24. 6 |
-| CaStard | 카페 공부만을 위한 최적화 앱 | [GitHub 링크](https://github.com/SKKUCapstone/Ca_stard_app) | 24. 3 ~ 24. 6 |
-| 이방인 | 여행계획 세우기 사이트 | [GitHub 링크](https://github.com/jihostudy/mytrip) | 24. 1 ~ 24. 2 |
-| Comit Gallery | 동아리 이벤트성 페이지 | [GitHub 링크](https://github.com/skku-comit/gallery-web) | 23. 8 ~ 23. 9 |
-| CATCH | 차없는 거리 행사, 디자인학회 전시 프로젝트 | [GitHub 링크](https://github.com/skku-comit/catch) | 23. 7 ~ 23. 8 |
-
-</br>
-
 
 
 </br>
@@ -51,3 +35,18 @@
 [2024/10/10 - [파이썬] 코테 꿀팁](https://jihoplayground.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%ED%85%8C-%EA%BF%80%ED%8C%81) <br/>
 [2024/08/07 - [Typescript] typeof, keyof 연산자와 typeof keyof 설명](https://jihoplayground.tistory.com/entry/Typescript-typeof-keyof-%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-typeof-keyof-%EC%84%A4%EB%AA%85) <br/>
 [2024/08/05 - [우아한 타입스크립트] 1장 웹 개발의 역사 및 타입스크립트의 등장](https://jihoplayground.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%97%AD%EC%82%AC-%EB%B0%8F-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5) <br/>
+
+
+<!-- 
+
+## 💧 과거 프로젝트 💧
+
+| 프로젝트명 | 설명 | 링크 | 기간 |
+|------------|------|------|------|
+| TRABOOK | 공공데이터 활용 공모전 | [GitHub 링크](https://github.com/Tra-Book/Frontend) | 24. 7 ~ 24.10. |
+| SKKU 외주 | 무용학과 콩쿨 접수 페이지 | <span style="color:#f54842">Private</span> | 24. 3 ~ 24. 6 |
+| CaStard | 카페 공부만을 위한 최적화 앱 | [GitHub 링크](https://github.com/SKKUCapstone/Ca_stard_app) | 24. 3 ~ 24. 6 |
+| 이방인 | 여행계획 세우기 사이트 | [GitHub 링크](https://github.com/jihostudy/mytrip) | 24. 1 ~ 24. 2 |
+| Comit Gallery | 동아리 이벤트성 페이지 | [GitHub 링크](https://github.com/skku-comit/gallery-web) | 23. 8 ~ 23. 9 |
+| CATCH | 차없는 거리 행사, 디자인학회 전시 프로젝트 | [GitHub 링크](https://github.com/skku-comit/catch) | 23. 7 ~ 23. 8 |
+
