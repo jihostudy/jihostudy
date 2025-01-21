@@ -27,15 +27,13 @@
 <br/>
 
 
-## ✅ Latest Blog Post
- 
+## ✅ Blog Post
+[2025/1/15 - [NPM Package 개발] NPM 패키지 개발 2편 [클릭 이벤트 분석]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-2%ED%8E%B8-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B6%84%EC%84%9D) <br/>
+[2025/1/11 - [NPM Package 개발] NPM 패키지 개발 1편 [타 라이브러리 사용 트러블 슈팅 과정]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-1%ED%8E%B8-%ED%83%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EA%B3%BC%EC%A0%95) <br/>
 [2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
 [2024/11/04 - 프로그래머스 전화번호 목록 JS 풀이](https://jihoplayground.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D-JS-%ED%92%80%EC%9D%B4) <br/>
-[2024/10/10 - [파이썬] 코테 꿀팁](https://jihoplayground.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%ED%85%8C-%EA%BF%80%ED%8C%81) <br/>
 [2024/08/07 - [Typescript] typeof, keyof 연산자와 typeof keyof 설명](https://jihoplayground.tistory.com/entry/Typescript-typeof-keyof-%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-typeof-keyof-%EC%84%A4%EB%AA%85) <br/>
-[2024/08/05 - [우아한 타입스크립트] 1장 웹 개발의 역사 및 타입스크립트의 등장](https://jihoplayground.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%97%AD%EC%82%AC-%EB%B0%8F-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%93%B1%EC%9E%A5) <br/>
-
 
 <!-- 
 
