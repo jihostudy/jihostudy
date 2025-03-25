@@ -5,15 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
 ## 저는
-✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부하고 있어요</span><br/> 
+✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부했어요</span><br/> 
 
-🖥️ <span style="color:#FFA07A"><strong>웹 개발</strong>을 가장 좋아해요</span><br/> 
+👂 <span style="color:#FFA07A">팀원을 <strong>존중하며 경청</strong>하는 자세로 임해요</span><br/>
 
 😍 <span style="color:#FFA07A">다양한 <strong>프로젝트</strong>로 기술과 친해지는 것을 선호해요</span><br/> 
 
 🤔 <span style="color:#FFA07A"><strong>미래지향적 코드</strong>를 작성하려고 노력해요</span><br/> 
 
-💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다 : )</span><br/>
+💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
  
 </br>
 
@@ -27,12 +27,18 @@
 
 
 ## ✅ Blog Post
+[2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
+
+[2025/3/2 - 카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
+
 [2025/1/15 - [NPM Package 개발] NPM 패키지 개발 2편 [클릭 이벤트 분석]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-2%ED%8E%B8-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B6%84%EC%84%9D) <br/>
+
 [2025/1/11 - [NPM Package 개발] NPM 패키지 개발 1편 [타 라이브러리 사용 트러블 슈팅 과정]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-1%ED%8E%B8-%ED%83%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EA%B3%BC%EC%A0%95) <br/>
+
 [2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
+
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
-[2024/11/04 - 프로그래머스 전화번호 목록 JS 풀이](https://jihoplayground.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D-JS-%ED%92%80%EC%9D%B4) <br/>
-[2024/08/07 - [Typescript] typeof, keyof 연산자와 typeof keyof 설명](https://jihoplayground.tistory.com/entry/Typescript-typeof-keyof-%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-typeof-keyof-%EC%84%A4%EB%AA%85) <br/>
+
 
 <!-- 
 
