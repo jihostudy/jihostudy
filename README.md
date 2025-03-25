@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
+<!--
 ## 저는
 ✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부했어요</span><br/> 
 
@@ -14,6 +15,7 @@
 🤔 <span style="color:#FFA07A"><strong>미래지향적 코드</strong>를 작성하려고 노력해요</span><br/> 
 
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
+-->
  
 </br>
 
