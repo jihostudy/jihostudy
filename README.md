@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihostudy&count_bg=%23C59EF3&title_bg=%23E9CC67&icon=&icon_color=%23000000&title=%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 저는
 ✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부하고 있어요</span><br/> 
 
