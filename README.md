@@ -28,8 +28,10 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
 -->
 
+<br/>
 
-## ✅ Blog Post
+
+## ✏️ Posts
 [2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
 
 [2025/3/2 - 카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
@@ -42,6 +44,8 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
 
+<br/>
+<br/>
  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact" />
