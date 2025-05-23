@@ -28,15 +28,10 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
 -->
  
-</br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact"><br><br>
-
-</br>
-
-[![JihoStudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihostudy)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jihostudy" />
+</p>
 
 
 ## ✅ Blog Post
