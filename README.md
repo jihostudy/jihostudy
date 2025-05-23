@@ -2,7 +2,18 @@
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&fontSize=50&fontColor=ffffff&fontAlignY=40) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg) -->
+
+
+### 노력이라는 작은 입실론을 모으는 개발자 김지호입니다.
+
+엄격한 수학도의 관점에서, 논리적 근거에 기반한 설계 및 재사용성에 기반한 확장가능한 개발을 중요시 합니다. <br/>
+작은 고민도 깊이 있게 바라보고, 코드리뷰를 통해 동료와 상호보완적 라포 생성을 지향합니다.
+
+<br/>
+
+DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리한 개발경험을 제공하고자 노력하고 있습니다. <br/>
+상호 성장할 수 있는 적극적 환경에서의 업무를 희망합니다.
 
 <!--
 ## 저는
