@@ -27,11 +27,6 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 
 💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
 -->
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jihostudy" />
-</p>
 
 
 ## ✅ Blog Post
@@ -46,6 +41,12 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 [2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
+
+ 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jihostudy" />
+</p>
 
 
 <!-- 
