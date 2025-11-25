@@ -47,10 +47,6 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 <br/>
 <br/>
  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihostudy&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jihostudy" />
-</p>
 
 
 <!-- 
