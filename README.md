@@ -30,6 +30,11 @@ DX에 관심이 많아, npm 패키지 제작 등 동료 개발자에게 편리�
 
 <br/>
 
+## 🎙️ Presentations
+[우아한 컴포넌트 : 변경에 유연한 컴포넌트 설계하기](https://www.youtube.com/watch?v=OVnLGoNY4uw) <br/>
+
+[서버 상태 관리 : TanStack Query 100% 활용하기](https://www.youtube.com/watch?v=ueEiMQu_iEo) <br/>
+
 
 ## ✏️ Posts
 [2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
