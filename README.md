@@ -34,6 +34,15 @@
 
 [서버 상태 관리 : TanStack Query 100% 활용하기](https://www.youtube.com/watch?v=ueEiMQu_iEo) <br/>
 
+<br/>
+
+## 📚 Studies
+기술스택을 넘어, 기술을 아는 개발자가 되기 위해 꾸준히 학습하고 있습니다. <br/>
+
+[대규모 시스템 설꼐 스터디 ]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/>
+
+
+<br/> 
 
 ## ✏️ Posts
 [2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
@@ -49,12 +58,17 @@
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
 
 <br/>
-<br/>
  
 ## Careers
 - CJ 올리브영 인턴 : 2025.09 ~ 2026.03 (6M, Ongoing)
 - 카카오테크 부트캠프 2기 : 2025.01 ~ 2025.07 (6M)
+  - 부하테스트 대상 (1등)
+  - 해커톤 본상 (2등)
+  - 프로젝트 본선 (4~7등)
 - 성균관대학교(SKKU) : 2019.03 ~ 2025.02
+  - Software GPA (4.27/4.5)
+
+
 
 
 <!-- 
