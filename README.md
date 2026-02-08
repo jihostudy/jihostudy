@@ -45,6 +45,10 @@
 <br/> 
 
 ## ✏️ Posts
+
+[카카오테크 부트캠프 신입 공채 후기, 최종 면접 탈락 🥲](https://jihoplayground.tistory.com/entry/2026-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%81%AC%EB%A3%A8-%ED%9B%84%EA%B8%B0-2%EC%B0%A8-%ED%83%88%EB%9D%BD) <br/>
+
+
 [2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
 
 [2025/3/2 - 카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
