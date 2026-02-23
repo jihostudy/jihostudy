@@ -29,6 +29,20 @@
 
 <br/>
 
+
+ 
+## Careers
+- CJ 올리브영 인턴 : 2025.09 ~ 2026.03 (6M, Ongoing)
+- 카카오테크 부트캠프 2기 : 2025.01 ~ 2025.07 (6M)
+  - 부하테스트 대상 (1등)
+  - 해커톤 본상 (2등)
+  - 프로젝트 본선 (4~7등)
+- 성균관대학교(SKKU) : 2019.03 ~ 2025.02
+  - Software GPA (4.27/4.5)
+
+<br/>
+
+
 ## 🎙️ Presentations
 [우아한 컴포넌트 : 변경에 유연한 컴포넌트 설계하기](https://www.youtube.com/watch?v=OVnLGoNY4uw) <br/>
 
@@ -60,17 +74,6 @@
 [2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
-
-<br/>
- 
-## Careers
-- CJ 올리브영 인턴 : 2025.09 ~ 2026.03 (6M, Ongoing)
-- 카카오테크 부트캠프 2기 : 2025.01 ~ 2025.07 (6M)
-  - 부하테스트 대상 (1등)
-  - 해커톤 본상 (2등)
-  - 프로젝트 본선 (4~7등)
-- 성균관대학교(SKKU) : 2019.03 ~ 2025.02
-  - Software GPA (4.27/4.5)
 
 
 
