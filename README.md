@@ -31,26 +31,25 @@
 
 
  
-## Careers
-- CJ 올리브영 인턴 : 2025.09 ~ 2026.03 (6M, Ongoing)
-- 카카오테크 부트캠프 2기 : 2025.01 ~ 2025.07 (6M)
-  - 부하테스트 대상 (1등)
-  - 해커톤 본상 (2등)
-  - 프로젝트 본선 (4~7등)
-- 성균관대학교(SKKU) : 2019.03 ~ 2025.02
-  - Software GPA (4.27/4.5)
+## 내 인생이라는 잔디 🍀
+| 구분 | 직책 | 성과 | 기간 |
+| --- | --- | --- | --- |
+| DDD 동아리 | 프론트엔드 개발 |  | 2026.03 ~ Ongoing |
+| CJ올리브영 | 프론트엔드 개발 인턴 |  | 2025.09 ~ 2026.03 |
+| 카카오테크 부트캠프 2기 | 풀스택 개발 트랙 |   부하테스트 대상 (1등), 해커톤 본상 (2등), 프로젝트 본선 (4~7등) |  2025.01 ~ 2025.07 |
+| 성균관대학교 | 수학과, 소포트웨어학과 | Software GPA (4.27/4.5) | 2019.03 ~ 2026.02 |
 
 <br/>
 
 
-## 🎙️ Presentations
+### 세션 발표
 [우아한 컴포넌트 : 변경에 유연한 컴포넌트 설계하기](https://www.youtube.com/watch?v=OVnLGoNY4uw) <br/>
 
 [서버 상태 관리 : TanStack Query 100% 활용하기](https://www.youtube.com/watch?v=ueEiMQu_iEo) <br/>
 
 <br/>
 
-## 📚 Studies
+### 스터디
 기술스택을 넘어, 기술을 아는 개발자가 되기 위해 꾸준히 학습하고 있습니다. <br/>
 
 [대규모 시스템 설꼐 스터디 ]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/>
