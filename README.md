@@ -5,64 +5,53 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg) -->
 
 
-### 노력이라는 작은 입실론을 모으는 개발자 김지호입니다.
+## 노력이라는 작은 입실론을 모으는 개발자 김지호입니다.
 
-저는 작은 입실론(ϵ)의 힘을 믿는 개발자 김지호입니다. <br/>
+<!--저는 작은 입실론(ϵ)의 힘을 믿는 개발자 김지호입니다. <br/> -->
 수학에서 입실론은 아주 작은 값이지만, 이 작은 값들이 모여 큰 결과를 만들어냅니다. <br/>
-작은 고민도 깊이 있게 바라보고, 코드리뷰를 통해 동료와 상호보완적 라포 생성을 지향합니다.
+작은 고민도 깊이 있게 바라보고, 코드리뷰를 통해 동료와 상호보완적 라포 생성을 지향합니다. <br />
+상호 성장할 수 있는 적극적 환경을 지향하며, 기술적으로 훌륭한 것 뿐만 아니라 긍정적이고 Long-Run하는 개발자가 되고 싶습니다. 
+
+<br />
+
+### 저는 현재
+Agent AI 시대에서 개발자의 방향성을 "폭 넓은 지식과 경험을 통한 목적성 프롬프팅"을 목표로 다양한 직무로 지식을 확장하며 공부하고 있습니다. 😎
+- 시스템 설계 (북스터디)
+- 백엔드 (개인)
 
 <br/>
-상호 성장할 수 있는 적극적 환경을 지향하며, 기술적으로 훌륭한 것 뿐만 아니라 긍정적이고 Long-Run하는 개발자가 되고 싶습니다. 🫠
-
-<!--
-## 저는
-✏️ <span style="color:#FFA07A">SKKU에서 <strong>수학, 소프트웨어학</strong>을 공부했어요</span><br/> 
-
-👂 <span style="color:#FFA07A">팀원을 <strong>존중하며 경청</strong>하는 자세로 임해요</span><br/>
-
-😍 <span style="color:#FFA07A">다양한 <strong>프로젝트</strong>로 기술과 친해지는 것을 선호해요</span><br/> 
-
-🤔 <span style="color:#FFA07A"><strong>미래지향적 코드</strong>를 작성하려고 노력해요</span><br/> 
-
-💪 <span style="color:#FFA07A">번아웃이 짧고 <strong>꾸준한것이</strong> 장점입니다</span><br/>
--->
-
 <br/>
-
 
  
 ## 내 인생이라는 잔디 🍀
 | 구분 | 직책 | 성과 | 기간 |
 | --- | --- | --- | --- |
-| DDD 동아리 | 프론트엔드 개발 |  | 2026.03 ~ Ongoing |
-| CJ올리브영 | 프론트엔드 개발 인턴 |  | 2025.09 ~ Ongoing |
+| DDD | 동아리, 프론트엔드 개발 |  | 2026.03 ~ Ongoing |
+| CJ 올리브영 | 프론트엔드 개발 인턴 |  | 2025.09 ~ Ongoing |
 | 카카오테크 부트캠프 2기 | 풀스택 개발 트랙 |   부하테스트 대상 (1등), 해커톤 본상 (2등), 프로젝트 본선 (4~7등) |  2025.01 ~ 2025.07 |
-| 성균관대학교 | 수학과, 소포트웨어학과 | Software GPA (4.27/4.5) | 2019.03 ~ 2026.02 |
+| 성균관대학교 | 수학과, 소포트웨어학과 | Software GPA (4.27 / 4.5) | 2019.03 ~ 2026.02 |
 
 <br/>
 
 
 ### 세션 발표
-[우아한 컴포넌트 : 변경에 유연한 컴포넌트 설계하기](https://www.youtube.com/watch?v=OVnLGoNY4uw) <br/>
+- [우아한 컴포넌트 : 변경에 유연한 컴포넌트 설계하기](https://www.youtube.com/watch?v=OVnLGoNY4uw) 
+- [서버 상태 관리 : TanStack Query 100% 활용하기](https://www.youtube.com/watch?v=ueEiMQu_iEo) <br/>
 
-[서버 상태 관리 : TanStack Query 100% 활용하기](https://www.youtube.com/watch?v=ueEiMQu_iEo) <br/>
-
-<br/>
+<!-- <br/>
 
 ### 스터디
 기술스택을 넘어, 기술을 아는 개발자가 되기 위해 꾸준히 학습하고 있습니다. <br/>
 
-[대규모 시스템 설꼐 스터디 ]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/>
+[대규모 시스템 설꼐 스터디 ]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/> -->
 
 
 <br/> 
 
+<!--
 ## ✏️ Posts
 
 [카카오테크 부트캠프 신입 공채 후기, 최종 면접 탈락 🥲](https://jihoplayground.tistory.com/entry/2026-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%81%AC%EB%A3%A8-%ED%9B%84%EA%B8%B0-2%EC%B0%A8-%ED%83%88%EB%9D%BD) <br/>
-
-
-[2025/3/23 - [API Method] 좋아요 생성과 삭제에는 어떤 메소드를 사용해야 할까?](https://jihoplayground.tistory.com/entry/API-Method-%EC%A2%8B%EC%95%84%EC%9A%94-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%82%AD%EC%A0%9C%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C) <br/>
 
 [2025/3/2 - 카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
 
@@ -73,7 +62,7 @@
 [2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 
 [2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
-
+-->
 
 
 
