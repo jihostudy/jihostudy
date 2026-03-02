@@ -3,27 +3,24 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&fontSize=50&fontColor=ffffff&fontAlignY=40) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg) -->
+## 개발자 김지호
+
+> ***가장 흐릿한 잉크가 가장 선명한 기억보다 낫다***
+> 
+
+사소한 경험도 정리하고 기록으로 남기며, 그 과정을 통해 스스로를 발전시킵니다.
+
+> **동료도 친구다**
+> 
+
+신뢰를 쌓고, 일의 과정 자체를 즐길 수 있는 동료가 되기 위해 노력합니다.
 
 
-## 노력이라는 작은 입실론을 모으는 개발자 김지호입니다.
 
-<!--저는 작은 입실론(ϵ)의 힘을 믿는 개발자 김지호입니다. <br/> -->
-수학에서 입실론은 아주 작은 값이지만, 이 작은 값들이 모여 큰 결과를 만들어냅니다. <br/>
-작은 고민도 깊이 있게 바라보고, 코드리뷰를 통해 동료와 상호보완적 라포 생성을 지향합니다. <br />
-상호 성장할 수 있는 적극적 환경을 지향하며, 기술적으로 훌륭한 것 뿐만 아니라 긍정적이고 Long-Run하는 개발자가 되고 싶습니다. 
-
-<br />
-
-### 저는 현재
-Agent AI 시대에서 개발자의 방향성을 "폭 넓은 지식과 경험을 통한 목적성 프롬프팅"을 목표로 다양한 직무로 지식을 확장하며 공부하고 있습니다. 😎
-- 시스템 설계 (북스터디)
-- 백엔드 (개인)
-
-<br/>
 <br/>
 
  
-## 내 인생이라는 잔디 🍀
+### 내 인생이라는 잔디
 | 구분 | 직책 | 성과 | 기간 |
 | --- | --- | --- | --- |
 | DDD | 동아리, 프론트엔드 개발 |  | 2026.03 ~ Ongoing |
