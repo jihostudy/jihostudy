@@ -48,21 +48,21 @@ Agent AI 시대에서 개발자의 방향성을 "폭 넓은 지식과 경험을 
 
 <br/> 
 
-<!--
+
 ## ✏️ Posts
+- [월 2천만원 토큰을 쓰는 개발팀에서 배운 것](https://jihoplayground.tistory.com/entry/%EC%9B%94-2%EC%B2%9C%EB%A7%8C%EC%9B%90-%ED%86%A0%ED%81%B0%EC%9D%84-%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83) <br/>
 
-[카카오테크 부트캠프 신입 공채 후기, 최종 면접 탈락 🥲](https://jihoplayground.tistory.com/entry/2026-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%81%AC%EB%A3%A8-%ED%9B%84%EA%B8%B0-2%EC%B0%A8-%ED%83%88%EB%9D%BD) <br/>
+- [카카오테크 부트캠프 신입 공채 후기, 최종 면접 탈락 🥲](https://jihoplayground.tistory.com/entry/2026-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%81%AC%EB%A3%A8-%ED%9B%84%EA%B8%B0-2%EC%B0%A8-%ED%83%88%EB%9D%BD) <br/>
 
-[2025/3/2 - 카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
+- [카카오테크 부트캠프 해커톤 밥팟 서비스 회고](https://jihoplayground.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%85%8C%ED%81%AC-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%B0%A5%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EA%B3%A0) <br/>
 
-[2025/1/15 - [NPM Package 개발] NPM 패키지 개발 2편 [클릭 이벤트 분석]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-2%ED%8E%B8-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B6%84%EC%84%9D) <br/>
+- [NPM 패키지 개발 2편 [클릭 이벤트 분석]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-2%ED%8E%B8-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B6%84%EC%84%9D) <br/>
 
-[2025/1/11 - [NPM Package 개발] NPM 패키지 개발 1편 [타 라이브러리 사용 트러블 슈팅 과정]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-1%ED%8E%B8-%ED%83%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EA%B3%BC%EC%A0%95) <br/>
+- [NPM 패키지 개발 1편 [타 라이브러리 사용 트러블 슈팅 과정]](https://jihoplayground.tistory.com/entry/NPM-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B0%9C%EB%B0%9C-1%ED%8E%B8-%ED%83%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EA%B3%BC%EC%A0%95) <br/>
 
-[2024/12/11 - [Tanstack Query] key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
+- [Tanstack Query key setMutationDefaults로 모듈화하여 관리하기](https://jihoplayground.tistory.com/entry/Tanstack-Query-key%EB%A5%BC-setMutationDefaults%EB%A1%9C-%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EC%97%AC-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 
-[2024/11/26 - [Tanstack Query] queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
--->
+- [Tanstack Query queryFc의 인자 FunctionContext에 대해 알아보자](https://jihoplayground.tistory.com/entry/Tanstack-Query-queryFc%EC%9D%98-%EC%9D%B8%EC%9E%90-FunctionContext%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) <br/>
 
 
 
