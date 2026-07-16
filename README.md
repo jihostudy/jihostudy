@@ -3,7 +3,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:c17019,20:cb8614,40:d39d10,60:d7b413,80:d8cc1f&height=200&section=header&fontSize=50&fontColor=ffffff&fontAlignY=40) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hello+I'm+Jiho.)](https://git.io/typing-svg) -->
-## 개발자 김지호
+## 김지호
 
 > ***가장 흐릿한 잉크가 가장 선명한 기억보다 낫다***
 > 
@@ -23,8 +23,8 @@
 ### 내 인생이라는 잔디
 | 구분 | 직책 | 성과 | 기간 |
 | --- | --- | --- | --- |
-| Hyundai Autoever | 프론트엔드, 백엔드 개발 |  | 2026.07 ~ Ongoing |
-| CJ 올리브영 | 프론트엔드, 백엔드 개발 인턴 |  | 2025.09 ~ 2026.07 |
+| Hyundai Autoever | 프론트엔드 개발 |  | 2026.07 ~ Ongoing |
+| CJ 올리브영 | 프론트엔드, 백엔드 개발 인턴 | [미국 시장 프로젝트](https://us.oliveyoung.com/) 초기 멤버 | 2025.09 ~ 2026.07 |
 | 카카오테크 부트캠프 2기 | 풀스택 개발 트랙 |   부하테스트 대상 (1등), 해커톤 본상 (2등), 프로젝트 본선 (4~7등) |  2025.01 ~ 2025.07 |
 | 성균관대학교 | 수학과, 소포트웨어학과 | Software GPA (4.27 / 4.5) | 2019.03 ~ 2026.02 |
 
@@ -40,7 +40,7 @@
 ### 스터디
 기술스택을 넘어, 기술을 아는 개발자가 되기 위해 꾸준히 학습하고 있습니다. <br/>
 
-[대규모 시스템 설꼐 스터디 ]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/> -->
+[대규모 시스템 설꼐 스터디]([https://www.youtube.com/watch?v=OVnLGoNY4uw](https://github.com/ssuk-ssuk/system_design_basics)) <br/> -->
 
 
 <br/> 
